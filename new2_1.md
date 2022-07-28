@@ -10,3 +10,5 @@ git init
 
 ## Команда git merge
 
+## Команда git rebase
+
